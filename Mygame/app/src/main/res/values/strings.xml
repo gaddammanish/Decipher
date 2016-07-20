@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mygame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_main_game">MainGameActivity</string>
+    <string name="title_activity_main_input">MainInputActivity</string>
+    <string name="title_activity_main_score">MainScoreActivity</string>
+</resources>
